@@ -1,6 +1,10 @@
-# Data ❤️ Python
+# Python ❤️ Data ❤️ Science
 
 If you want to play with data in python, you've come to the right place
+
+## Python notebook
+
+Clean python notebook, ready for you to code away! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/notebooks.git/master?filepath=Clean%20notebook.ipynb)
 
 ## Tree data
 
